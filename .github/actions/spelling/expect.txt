@@ -82,6 +82,7 @@ changefreq
 Chans
 Checkmarx
 clientgoscheme
+clientset
 cloudevents
 clt
 clusterrole
@@ -184,8 +185,8 @@ fetchintervalseconds
 fieldpath
 fieldref
 finalizer
-flyout
 fluxcd
+flyout
 fontawesome
 ftp
 fullname
@@ -225,6 +226,7 @@ goodanalysis
 goodmetric
 goodtaskdefinition
 google
+googleapis
 gotk
 govulncheck
 Grabner
@@ -407,6 +409,7 @@ Meha
 mergo
 metricsapi
 metricscontroller
+metricscount
 metricskeptnsh
 metricsobject
 metricsprovider
@@ -538,6 +541,8 @@ remediations
 replicasets
 replicationcontrollers
 resourcereference
+restapi
+returnval
 Rexed
 rgb
 RLock
@@ -660,8 +665,8 @@ Umre
 undeploy
 unmarshal
 unmarshalling
-usr
 urlset
+usr
 utilruntime
 Utkarsh
 validatingwebhookconfigurations
